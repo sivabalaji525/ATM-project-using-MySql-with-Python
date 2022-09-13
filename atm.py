@@ -6,7 +6,7 @@ mydb=mysql.connector.connect(
     host="localhost",
     user="root",
     password="12340",
-    database="batch54_db"
+    database="batch57_db"
 )
 mycursor = mydb.cursor()
 #Command for creating table
