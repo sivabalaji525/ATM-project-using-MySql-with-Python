@@ -1,5 +1,5 @@
 import mysql.connector
-from mysql.connector import Error #To ignore all the error
+from mysql.connector import Error #To ignore all the errors
 
 #creating connection to the database:
 mydb=mysql.connector.connect(
